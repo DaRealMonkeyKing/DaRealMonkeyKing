@@ -31,9 +31,12 @@ I'm Niel, a Computer Science student at McMaster University. Some of my interest
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
 
 <br>
-Last Updated: 01/08/2026
+Last Updated: 01/13/2026
 
 <!--
 **DaRealMonkeyKing/DaRealMonkeyKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
