@@ -20,7 +20,6 @@ I'm Niel, a Computer Science student at McMaster University. Some of my interest
 ### Frameworks & Libraries ⚙️
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-7A32F4?style=for-the-badge&logo=pygame&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
